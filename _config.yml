@@ -1,0 +1,29 @@
+author:
+  name: WSA MADA
+  email: wsa@gmail.com
+  site: 'http://mada-wsa.herokuapp.com/'
+excerpt_separator: <!--more-->
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+permalink: pretty
+google:
+  adsense: null
+gems:
+  - jekyll-sitemap
+title: WSA MADA
+description: >
+  Write an awesome description for your new site here. You can edit this line in
+  _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+image: /assets/favicons/android-chrome-192x192.png
+facebook: cntemad
+github_username: tinosam
+defaults:
+  - scope:
+      path: ''
+      type: posts
+    values:
+      is_post: true
