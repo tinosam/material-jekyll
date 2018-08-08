@@ -13,8 +13,6 @@ Things you may want to cover:
 * Configuration : bundle install ,  bundle exec jekyll serve
 
 # Include :
-
-Things you may want to cover:
 # Admin dashboard
 # Blog
 
